@@ -1,8 +1,5 @@
 # Day_17_Turtle_Race
 <html>
-<head>
-	<title>Turtle Race Project Readme</title>
-</head>
 <body>
 	<h1>Turtle Race Project Readme</h1>
 	<p>This project is a simple turtle race game developed using Python's turtle graphics module. The game involves multiple turtles moving across the screen towards a finish line, with the first turtle to cross the line declared the winner.</p>
